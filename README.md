@@ -9,7 +9,7 @@ Este proyecto forma parte de mi roadmap de aprendizaje hacia **Backend + IA** y 
 
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/chatbot-python.git
+   git clone https://github.com/danilog-dev/chatbot-python.git
    cd chatbot-python
    ```
 
