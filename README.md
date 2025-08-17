@@ -56,4 +56,4 @@ Bot: ¡Hasta luego! 👋
 
 ---
 
-✍️ Proyecto en desarrollo por **[Tu Nombre]**
+✍️ Proyecto en desarrollo por **Danilo González**
